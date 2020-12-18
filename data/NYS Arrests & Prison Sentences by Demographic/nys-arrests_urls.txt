@@ -1,0 +1,3 @@
+Source Repository: https://www.criminaljustice.ny.gov/crimnet/ojsa/stats.htm
+Arrest Demographics: https://www.criminaljustice.ny.gov/crimnet/ojsa/dispositions-adult-arrest-demographics.html
+Adult Arrest Demographics: https://www.criminaljustice.ny.gov/crimnet/ojsa/adult-arrest-demographics.html

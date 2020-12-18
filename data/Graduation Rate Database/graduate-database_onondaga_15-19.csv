@@ -1,0 +1,11 @@
+year,aggregation,county,membership_desc,subgroup_name,enroll_cnt,grad_cnt,grad_pct,local_cnt,local_pct,reg_cnt,reg_pct,reg_adv_cnt,reg_adv_pct,non_diploma_credential_cnt,non_diploma_credential_pct,still_enr_cnt,still_enr_pct,ged_cnt,ged_pct,dropout_cnt,dropout_pct
+2015,County,Onondaga,2009 Total Cohort - 6 Year Outcome,Black or African American,967,660,0.68,91,0.09,496,0.51,73,0.08,25,0.03,67,0.07,14,0.01,200,0.21
+2015,County,Onondaga,2009 Total Cohort - 6 Year Outcome,White,4179,3685,0.88,131,0.03,1599,0.38,1955,0.47,73,0.02,64,0.02,63,0.02,292,0.07
+2016,County,Onondaga,2010 Total Cohort - 6 Year Outcome,Black or African American,879,612,0.7,85,0.1,461,0.52,66,0.08,22,0.03,48,0.05,5,0.01,192,0.22
+2016,County,Onondaga,2010 Total Cohort - 6 Year Outcome,White,4077,3688,0.9,143,0.04,1579,0.39,1966,0.48,54,0.01,46,0.01,44,0.01,239,0.06
+2017,County,Onondaga,2011 Total Cohort - 6 Year Outcome,Black or African American,913,670,0.73,95,0.1,508,0.56,67,0.07,17,0.02,50,0.05,0,0,174,0.19
+2017,County,Onondaga,2011 Total Cohort - 6 Year Outcome,White,3936,3526,0.9,143,0.04,1504,0.38,1879,0.48,45,0.01,49,0.01,34,0.01,273,0.07
+2018,County,Onondaga,2012 Total Cohort - 6 Year Outcome,Black or African American,918,698,0.76,131,0.14,489,0.53,78,0.08,28,0.03,29,0.03,2,0,161,0.18
+2018,County,Onondaga,2012 Total Cohort - 6 Year Outcome,White,3851,3501,0.91,167,0.04,1525,0.4,1809,0.47,46,0.01,41,0.01,35,0.01,227,0.06
+2019,County,Onondaga,2013 Total Cohort - 6 Year Outcome,Black or African American,938,719,0.77,158,0.17,490,0.52,71,0.08,33,0.04,30,0.03,1,0,155,0.17
+2019,County,Onondaga,2013 Total Cohort - 6 Year Outcome,White,3931,3568,0.91,160,0.04,1419,0.36,1989,0.51,43,0.01,52,0.01,38,0.01,226,0.06
